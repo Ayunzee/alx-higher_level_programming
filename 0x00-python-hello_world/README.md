@@ -1,1 +1,1 @@
-0. print a script
+0. print a shell sript
